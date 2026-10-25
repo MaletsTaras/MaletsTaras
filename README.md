@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaletsTaras
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming/law
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
